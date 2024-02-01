@@ -1,4 +1,4 @@
-FROM debian:bookworm-slim
+FROM debian:12.4-slim
 
 ENV PYTHONUNBUFFERED 1
 ENV PYTHONIOENCODING UTF-8
